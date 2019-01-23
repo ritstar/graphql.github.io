@@ -140,6 +140,11 @@ var logos = [
     link: 'https://www.20minutes.fr'
   },
   {
+    name: 'NotesBABA',
+    img: 'notesbaba.png',
+    link: 'https://www.notesbaba.com'
+  },
+  {
     name: 'AlloCiné',
     img: 'allocine.png',
     link: 'http://www.allocine.fr'
